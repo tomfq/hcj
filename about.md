@@ -1,1 +1,1 @@
-hcj means HTTP CSS JavaScript
+hcj means: HTTP CSS JavaScript
